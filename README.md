@@ -21,7 +21,7 @@ All three of them are available on Kaggle:
 - https://www.kaggle.com/snapcrack/all-the-news
 
 ## Code 
-I uploaded three **.py** and three **.ipynb** files. The .py files contain the network implementation and utilities. The notebooks are demos of how to apply the model. 
+I uploaded three **.py** and three **.ipynb** files. The .py files contain the network implementation and utilities. The notebooks are demos of how to apply the model. Maybe it is useful for someone.
 
 ## Architecture
 **Seq2Seq model**
